@@ -10,7 +10,11 @@
 python3 -m venv myenv
 ```
 ```
-source myenv/bin/activate  # Activate virtual environment
+source myenv/bin/activate  # For Linux/macOS
+```
+- or
+```
+myenv\Scripts\activate  # For Windows
 ```
 - Install requirements
 ```
