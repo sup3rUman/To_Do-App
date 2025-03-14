@@ -6,8 +6,10 @@
 
 # To run app
 - Create virtual Environment
-`python3 -m venv myenv`
-`source myenv/bin/activate`  # Activate virtual environment
+```
+python3 -m venv myenv`
+`source myenv/bin/activate  # Activate virtual environment
+```
 - Install requirements
 `pip install -r requirements.txt`
 - Initialize the Database
