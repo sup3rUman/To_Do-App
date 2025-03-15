@@ -5,7 +5,7 @@
 3. Update Task
 
 # To run app
-#Windows Preconditions
+# Windows Preconditions
 -install python from https://www.python.org/downloads/windows/
 -use `py` instead of `python3`
 - Create virtual Environment
