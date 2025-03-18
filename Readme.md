@@ -7,10 +7,9 @@
 # To run app
 # Windows Preconditions
 - install python from https://www.python.org/downloads/windows/
--use `py` instead of `python3`
 - Create virtual Environment
 ```
-python3 -m venv myenv
+python -m venv myenv
 ```
 ```
 source myenv/bin/activate  # For Linux/macOS
@@ -25,7 +24,7 @@ pip install -r requirements.txt
 ```
 - Initialize the Database
 ```
-python3
+python
 ```
 ```
 from app import db, app
@@ -40,5 +39,5 @@ exit()
 
 - run app
 ```
-python3 app.py
+python app.py
 ```
